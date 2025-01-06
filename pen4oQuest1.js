@@ -7,7 +7,7 @@ console.log(`The Triangle of Truth with sides ${sideA}, ${sideB}, and ${sideC} i
 
 
 console.log(`The Triangle of Truth with sides ${sideA}, ${sideB}, and ${sideC} has been validated. Pen4o, you may begin your journey!`);
-console.log("Great success!")
+    
  }
 
 pen4oQuest1(3, 4, 5)
